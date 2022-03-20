@@ -1,5 +1,5 @@
 insert into proprietario values
-("03456734523","João Paulo"),
+("03456734523", "João Paulo"),
 ("08634858456", "Maria Helena"),
 ("01233563634","José Alves"),
 ("12163276976","Murilo Pereira");
